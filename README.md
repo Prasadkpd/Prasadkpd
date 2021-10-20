@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Prasad</h1>
 <h3 align="center">Undergraduate 👨‍🎓 at University of Colombo School of Computing 🏛</h3>
 
