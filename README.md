@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasad</h1>
 <h3 align="center">Undergraduate 👨‍🎓 at University of Colombo School of Computing 🏛</h3>
 
-- 📫 How to reach me **kpdplakshan@gmail.com**
 <h3 align="left">Programming Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
