@@ -9,5 +9,6 @@
 <a href="https://linkedin.com/in/prasad-lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-lakshan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@prasadlakshan991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prasadlakshan991" height="30" width="40" /></a>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
