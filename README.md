@@ -22,7 +22,4 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Prasadkpd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkpd&layout=compact" />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prasad-lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-lakshan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@prasadlakshan991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prasadlakshan991" height="30" width="40" /></a>
+
