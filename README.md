@@ -35,6 +35,7 @@
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-%23007ACC?style=flat&logo=JetBrains)](https://www.jetbrains.com/idea/)
 [![Web Storm](https://img.shields.io/badge/IDE-WebStorm-%23007ACC?style=flat&logo=JetBrains)](https://www.jetbrains.com/webstorm/)
+[![Php Storm](https://img.shields.io/badge/IDE-PhpStorm-%23007ACC?style=flat&logo=JetBrains)](https://www.jetbrains.com/phpstorm/)
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-%23555555?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows-%23555555?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
