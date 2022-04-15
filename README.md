@@ -25,10 +25,10 @@
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkpd&layout=compact) -->
 <div align="center">
-<a href="https://github.com/prasadkpd/github-readme-stats">
+<a href="https://github.com/Prasadkpd/github-readme-stats">
  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-stats"/>
 </a>
-<a href="https://github.com/prasadkpd/github-readme-stats">
+<a href="https://github.com/Prasadkpd/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-langs"/>
 </a>
 </div>
