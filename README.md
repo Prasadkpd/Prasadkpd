@@ -19,7 +19,7 @@
 
 </p>
   
-<!-- ![Prasad github stats](https://github-readme-stats.vercel.app/api?username=prasadkpd&show_icons=true&theme=github_dark) -->
+![Prasad github stats](https://github-readme-stats.vercel.app/api?username=prasadkpd&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkpd&layout=compact)
 
