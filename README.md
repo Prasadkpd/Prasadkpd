@@ -21,7 +21,7 @@
   
 <!-- ![Prasad github stats](https://github-readme-stats.vercel.app/api?username=prasadkpd&show_icons=true&theme=github_dark) -->
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkpd&layout=compact) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkpd&layout=compact)
 
 <div align="center">
  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-stats"/>
