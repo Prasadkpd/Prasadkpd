@@ -24,18 +24,18 @@
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkpd&layout=compact) -->
 <div align="center">
 <a href="https://github.com/prasadkpd/github-readme-stats">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-stats"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-stats"/>
 </a>
 <a href="https://github.com/prasadkpd/github-readme-stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-langs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-langs"/>
 </a>
 </div>
 <!--  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-stats"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-langs"/> -->
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=prasadkpd&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=prasadkpd&theme=react-dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Prasadkpd&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Prasadkpd&theme=react-dark"/>
   <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
 </div>
 
