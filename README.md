@@ -67,3 +67,5 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-%23555555?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows-%23555555?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 </div>
+<div align="right"><p align="right"> <img src="https://komarev.com/ghpvc/?username=prasadkpd&label=Profile%20views&color=0e75b6&style=flat" alt="Prasadkpd" /> </p>
+</div>
