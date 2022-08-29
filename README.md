@@ -35,7 +35,7 @@
  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-stats"/>
 </a>
 <a href="https://github.com/Prasadkpd/github-readme-stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-langs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkpd&show_icons=true&layout=compact&langs_count=8&theme=github_dark" alt="tienhuynh-tn-langs"/>
 </a>
 </div>
 <!--  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-stats"/>
