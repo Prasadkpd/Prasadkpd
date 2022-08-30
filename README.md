@@ -57,7 +57,7 @@
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prasadlakshan)
 [![DEV.TO](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/prasadkpd)
 ![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
-
+[![Hackerrank](https://img.shields.io/badge/hackerrank-%230A0A0A.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prasadlakshan991)
 
 ### Familiar Operating Systems & Tools
 
