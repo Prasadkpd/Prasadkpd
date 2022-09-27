@@ -36,18 +36,18 @@
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkpd&layout=compact) -->
 <div align="center">
 <a href="https://github.com/Prasadkpd/github-readme-stats">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-stats"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Prasadkpd&layout=compact&show_icon=true&theme=github_dark&include_all_commits=false&count_private=true" alt="tienhuynh-tn-stats"/>
 </a>
 <a href="https://github.com/Prasadkpd/github-readme-stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkpd&show_icons=true&layout=compact&langs_count=8&theme=github_dark" alt="tienhuynh-tn-langs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkpd&show_icons=true&layout=compact&langs_count=8&theme=github_dark&include_all_commits=false&count_private=true" alt="tienhuynh-tn-langs"/>
 </a>
 </div>
 <!--  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-stats"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkpd&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-langs"/> -->
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkpd&layout=compact&show_icon=true&theme=github_dark&include_all_commits=false&count_private=true" alt="tienhuynh-tn-langs"/> -->
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Prasadkpd&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Prasadkpd&theme=react-dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Prasadkpd&theme=algolia&background=0d1117&hide_border=true&include_all_commits=false&count_private=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Prasadkpd&theme=react-dark&include_all_commits=false&count_private=true"/>
 </div>
 
 <div align="center">
