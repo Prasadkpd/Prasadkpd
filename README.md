@@ -47,7 +47,7 @@
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Prasadkpd&theme=algolia&background=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Prasadkpd&theme=react-dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Prasadkpd&theme=react-dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
