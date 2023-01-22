@@ -37,7 +37,7 @@
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkpd&layout=compact) -->
 <div align="center">
 <a href="https://github.com/Prasadkpd/github-readme-stats">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=Prasadkpd&layout=compact&show_icon=true&theme=github_dark&count_private=true" alt="tienhuynh-tn-stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=Prasadkpd&layout=compact&show_icon=true&theme=github_dark&count_private=true&include_all_commits=true" alt="tienhuynh-tn-stats"/>
 </a>
 <a href="https://github.com/Prasadkpd/github-readme-stats">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkpd&show_icons=true&layout=compact&langs_count=10&theme=github_dark&include_all_commits=true&count_private=true" alt="tienhuynh-tn-langs"/>
